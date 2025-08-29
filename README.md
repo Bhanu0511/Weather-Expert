@@ -1,8 +1,8 @@
-# Weather-Expert ClimaCast - A Real Time Weather Forecast Application
-ClimaCast is a modern, desktop-optimized weather application that delivers accurate real-time weather data and 5-day forecasts using the OpenWeatherMap API. Built with scalability and clean design in mind, this app integrates geolocation support, animated UI transitions, responsive components, and a gradient background that adapts to the current weather type. Designed with a developer-first mindset, it is a polished and complete project.
+# Weather-Expert - A Real Time Weather Forecast Application
+Weather-Expert is a modern, desktop-optimized weather application that delivers accurate real-time weather data and 5-day forecasts using the OpenWeatherMap API. Built with scalability and clean design in mind, this app integrates geolocation support, animated UI transitions, responsive components, and a gradient background that adapts to the current weather type. Designed with a developer-first mindset, it is a polished and complete project.
 
 📦 Product Description
-ClimaCast is a fully functional weather forecasting web application that allows users to:
+Weather-Expert is a fully functional weather forecasting web application that allows users to:
 
 Search for any city and view real-time weather conditions.
 
